@@ -1,4 +1,4 @@
- 👋 <h2><Hello, I’m Tal Bitao <h2>
+ 👋 <h2>Hello, I’m Tal Bitao <h2>
  
  I am a passionate and enthusiastic self-taught web developer.
  <a href='https://www.linkedin.com/in/talbitao/'>
