@@ -1,6 +1,9 @@
-- 👋 Hello, I’m Tal Bitao 
+- 👋 Hello, I’m Tal Bitao <br>
  I am a passionate and enthusiastic self-taught web developer.
-<img src="https://www.linkedin.com/in/talbitao/" />
+ <a href='https://www.linkedin.com/in/talbitao/'>
+ <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+
+ <a/>
 
 
 <!---
